@@ -1,0 +1,1 @@
+https://lenguajejs.com/javascript/asincronia/que-es/
