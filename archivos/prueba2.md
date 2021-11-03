@@ -1,1 +1,1 @@
-https://lenguajejs.com/javascript/asincronia/que-es/
+//https://www.youtube.com/watch?v=7taS_EGdKIk
